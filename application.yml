@@ -1,0 +1,7 @@
+server:
+  port: 8092
+  
+index:
+      client: 7
+message:
+      client: Accessed Client 
